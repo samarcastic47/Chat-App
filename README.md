@@ -16,7 +16,10 @@ project_folder
      - chat.png
   - Server
      - index.js
-
+       
+**IMPORTANT**
+-  To get the node_modules type 'npm install' in the terminal
+  
 **3. Run the server using nodemon index.js**
 
 **4. Run the index.html in your browser.**
